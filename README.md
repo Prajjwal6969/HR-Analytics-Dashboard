@@ -57,7 +57,7 @@ Employees are more likely to leave during their initial years at the company.
 
 ## 📷 Dashboard Preview
 
-![HR ANALYTICSDashboard](Dashboard.png)
+![HR ANALYTICS_DASHBOARD](Dashboard.png)
 
 ---
 
